@@ -16,8 +16,8 @@ import json
 import random
 from PIL import Image
 
-API_TOKEN: Final = '7481172726:AAFvlHhskIFhkpffMXtan72Gu2pWi1utHVw'
-BOT_USERNAME: Final = '@welder_3000_bot'
+API_TOKEN: Final = 'PUT_YOUR_TOKEN'
+BOT_USERNAME: Final = 'PUT_YOUR_NAME'
 global classifier, yolo_model, augs, idx2label
 
 def plot_one_box(x, image, color=None, label=None, line_thickness=None):
