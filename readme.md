@@ -2,7 +2,7 @@
 
 Для запуска телеграм бота необходимо:
 
-1) Скачать веса (файлы .pt и .pth) по ссылке https://drive.google.com/drive/folders/11iYT6JVHSNIx_IkBtgVRZFhk4XJDk9Y_?usp=sharing
+1) Скачать веса (файлы .pt и .pth) по ссылке https://drive.google.com/drive/folders/11iYT6JVHSNIx_IkBtgVRZFhk4XJDk9Y_?usp=sharing и положить их в папку checkpoints
 
 2) Ввести следующие команды:
 ```
