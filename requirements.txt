@@ -1,0 +1,6 @@
+albumentations
+open_clip_torch
+ultralytics
+dill
+python-telegram-bot
+requests
